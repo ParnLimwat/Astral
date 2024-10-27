@@ -15,5 +15,11 @@ The easiest way to run this project is to open it through a Google Colab. Displa
 
 4. Choose Astral.ipynb.
 
+5. Adding the backtesting section:
+   5.1. Download the backtesting data (ETHUSDT.csv) from the repository.
+   5.2. In the menu on the left column, choose the "files" icon.
+   5.3. Choose the "Upload to session storage icon".
+   5.4. Upload the ETHUSDT.csv file into the notebook.
+
 Enjoy our project :)
 
