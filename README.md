@@ -7,9 +7,13 @@ This project employs a Moving Average Crossover Strategy to evaluate trends in c
 ### Instructions for running the project
 The easiest way to run this project is to open it through a Google Colab. Displayed below is a step by step instruction on how to access the project.
 
-1. Go to https://colab.research.google.com/ on your web browser
+1. Go to https://colab.research.google.com/ on your web browser.
 
-2. Navigate to File < Open notebook
+2. Navigate to File < Open notebook.
 
-3. Choose GitHub and paste in the following link: 
+3. Choose GitHub and paste in the following link: https://github.com/ParnLimwat/Astral/tree/main.
+
+4. Choose Astral.ipynb.
+
+Enjoy our project :)
 
