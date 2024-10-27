@@ -9,7 +9,7 @@ The easiest way to run this project is to open it through a Google Colab. Below 
 
 1. Go to https://colab.research.google.com/ on your web browser.
 
-2. Navigate to File < Open notebook.
+2. Navigate to File > Open notebook.
 
 3. Choose GitHub and paste in the following link: https://github.com/ParnLimwat/Astral
 
