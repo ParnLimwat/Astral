@@ -11,7 +11,7 @@ The easiest way to run this project is to open it through a Google Colab. Displa
 
 2. Navigate to File < Open notebook.
 
-3. Choose GitHub and paste in the following link: https://github.com/ParnLimwat/Astral/tree/main.
+3. Choose GitHub and paste in the following link: https://github.com/ParnLimwat/Astral
 
 4. Choose Astral.ipynb.
 
